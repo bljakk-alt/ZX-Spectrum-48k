@@ -26,9 +26,9 @@ ZX Spectrum 3-pin EAR/MIC audio connector recreation.
 
 ---
 
-### [CONN-TH_5P-P2.54_520315-5](./CONN_TH_8P_P2.54_520315-5/)
+### [CONN-TH_5P-P2.54_520315-5](./CONN_TH_5P_P2.54_520315-5/)
 
-[![CONN-TH_5P-P2.54_520315-5](./CONN_TH_8P_P2.54_520315-5/CONN-TH_5P-P2.54_520315-5.png)](./CONN_TH_8P_P2.54_520315-5/)
+[![CONN-TH_5P-P2.54_520315-5](./CONN_TH_5P_P2.54_520315-5/CONN-TH_5P-P2.54_520315-5.png)](./CONN_TH_5P_P2.54_520315-5/)
 
 Recreated TE Connectivity / AMP 520315-5 style 5-pin keyboard connector.
 
