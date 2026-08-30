@@ -16,6 +16,19 @@ Each component folder contains the available model files and a rendered preview.
   - Suitable for **KiCad** 3D PCB views.
   - Can also be used in Fusion, FreeCAD, and other STEP-compatible CAD/EDA software.
 
+## Footprints
+
+If footprints are available, they are located in the respective component subfolder. Each component may contain an additional `footprint` subfolder with the JSON file exported directly from EasyEDA.
+
+Each footprint includes the proper:
+
+- PCB layers
+- Silkscreen
+- Component outline/shape
+- Pad and pin shapes
+- Pin numbering
+- Additional component-specific information where required
+
 ## Current designs
 
 ### [AUDIO_JACK_3PIN](./AUDIO_JACK_3PIN/)
