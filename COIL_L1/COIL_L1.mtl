@@ -4,11 +4,11 @@ newmtl PEKK_-_Polyetherketoneketone_Reinforced_With_Carbon_Fibers_-_HT-23_(with_
 Kd 0.352941 0.352941 0.352941
 
 newmtl Copper_-_Raw
-Kd 0.000000 0.000000 0.000000
+Kd 0.680000 0.320000 0.090000
 
 newmtl Aluminum_-_Polished
-Kd 0.960784 0.960784 0.964706
+Kd 0.840000 0.840000 0.845000
 
 newmtl Aluminum_-_Satin
-Kd 0.960784 0.960784 0.964706
+Kd 0.840000 0.840000 0.845000
 

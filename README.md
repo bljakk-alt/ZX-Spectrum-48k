@@ -42,7 +42,7 @@ Recreated TE Connectivity / AMP 520315-8 style 8-pin keyboard connector.
 
 ---
 
-### [COIL L1](./COIL_L1/)/)
+### [COIL L1](./COIL_L1/))
 
 [![COIL L1](./COIL_L1/COIL_L1.png)](./COIL_L1/)
 
@@ -63,6 +63,14 @@ LM7805 regulator assembly with ZX Spectrum-style heatsink and mounting hardware.
 [![RF MOD Astec 1233 E36](./RF%20MOD%20Astec%201233%20E36/RF%20MOD%20Astec%201233%20E36.PNG)](./RF%20MOD%20Astec%201233%20E36/)
 
 Astec 1233 E36 RF modulator enclosure recreation.
+
+---
+
+### [MICROSWITCH_OPEN_FRAME_SPRING_LEVER](./MICROSWITCH_OPEN_FRAME_SPRING_LEVER/)
+
+[![MICROSWITCH_OPEN_FRAME_SPRING_LEVER](./MICROSWITCH_OPEN_FRAME_SPRING_LEVER/MICROSWITCH_OPEN_FRAME_SPRING_LEVER.png)](./MICROSWITCH_OPEN_FRAME_SPRING_LEVER/)
+
+Open-frame spring-lever microswitch recreation for retro joysticks.
 
 ---
 
