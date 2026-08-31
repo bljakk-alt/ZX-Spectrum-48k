@@ -87,6 +87,14 @@ Open-frame spring-lever microswitch recreation for retro joysticks.
 
 ---
 
+### [ZX Spectrum Speaker 40ohm](./ZX%20Spectrum%20Speaker%2040ohm/)
+
+[![ZX Spectrum Speaker 40ohm](./ZX%20Spectrum%20Speaker%2040ohm/ZX%20Spectrum%20Speaker%2040ohm.png)](./ZX%20Spectrum%20Speaker%2040ohm/)
+
+ZX Spectrum 40 Ω speaker recreation.
+
+---
+
 ## Usage
 
 For **EasyEDA**, use the **OBJ + MTL** files together. If they are distributed as a ZIP archive, keep both files in the archive together so the material reference remains available.
