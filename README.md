@@ -87,11 +87,19 @@ Open-frame spring-lever microswitch recreation for retro joysticks.
 
 ---
 
-### [ZX Spectrum Speaker 40ohm](./ZX%20Spectrum%20Speaker%2040ohm/)
+### [ZX Spectrum Speaker 40ohm - 23mm](./ZX%20Spectrum%20Speaker%2040ohm/)
 
 [![ZX Spectrum Speaker 40ohm](./ZX%20Spectrum%20Speaker%2040ohm/ZX%20Spectrum%20Speaker%2040ohm.PNG)](./ZX%20Spectrum%20Speaker%2040ohm/)
 
-ZX Spectrum 40 Ω speaker recreation.
+ZX Spectrum 40 Ω speaker recreation, 23mm diameter.
+
+---
+
+### [ZX Spectrum Speaker 200ohm 27mm](./ZX%20Spectrum%20Speaker%20200ohm/)
+
+[![ZX Spectrum Speaker 40ohm](./ZX%20Spectrum%20Speaker%20200ohm/ZX%20Spectrum%20Speaker%20200ohm.PNG)](./ZX%20Spectrum%20Speaker%20200ohm/)
+
+ZX Spectrum 200 Ω speaker recreation, 27mm diameter.
 
 ---
 
