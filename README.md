@@ -103,6 +103,30 @@ ZX Spectrum 200 Ω speaker recreation, 27mm diameter.
 
 ---
 
+### [ROM](./ROM/)
+
+[![ROM HITACHI HN613128P](./ROM/ROM%20HITACHI%20HN613128P.png)](./ROM/)
+
+Hitachi HN613128P ROM IC recreation.
+
+---
+
+### [ULA](./ULA/)
+
+[![FERRANTI ULA 6C001E-7](./ULA/FERRANTI_ULA_6C001E-7.png)](./ULA/)
+
+Ferranti ULA 6C001E-7 IC recreation.
+
+---
+
+### [Z80](./Z80/)
+
+[![Z80 NEC 8308P8](./Z80/Z80%20-%20NEC%208308P8.png)](./Z80/)
+
+NEC D780C-1 Z80 CPU, 8308P8 recreation.
+
+---
+
 ## Usage
 
 For **EasyEDA**, use the **OBJ + MTL** files together. If they are distributed as a ZIP archive, keep both files in the archive together so the material reference remains available.
