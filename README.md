@@ -67,6 +67,8 @@ Astec UM1233 / E36 RF modulator enclosure recreation.
 
 [![ROM HITACHI HN613128P](./ROM/ROM%20HITACHI%20HN613128P.png)](./ROM/)
 
+**Footprint:** [DIP28W-14.10X36.75-RS15.24-P2.54](https://github.com/bljakk-alt/PCB-Design/tree/main/DIP28W-14.10X36.75-RS15.24-P2.54/footprint)
+
 Hitachi HN613128P ROM IC recreation.
 
 ---
@@ -74,6 +76,8 @@ Hitachi HN613128P ROM IC recreation.
 ## ULA
 
 [![FERRANTI ULA 6C001E-7](./ULA/FERRANTI_ULA_6C001E-7.png)](./ULA/)
+
+**Footprint:** [DIP40-14.10X52.00-RS15.24-P2.54](https://github.com/bljakk-alt/PCB-Design/tree/main/DIP40-14.10X52.00-RS15.24-P2.54/footprint)
 
 Ferranti ULA 6C001E-7 IC recreation.
 
@@ -83,7 +87,69 @@ Ferranti ULA 6C001E-7 IC recreation.
 
 [![Z80 NEC 8308P8](./Z80/Z80%20-%20NEC%208308P8.png)](./Z80/)
 
+**Footprint:** [DIP40-14.10X52.00-RS15.24-P2.54](https://github.com/bljakk-alt/PCB-Design/tree/main/DIP40-14.10X52.00-RS15.24-P2.54/footprint)
+
 NEC D780C-1 Z80 CPU, 8308P8 recreation.
+
+---
+
+## ITT 4116
+
+[![ITT 4116](./ITT_4116/ITT_4116.png)](./ITT_4116/)
+
+ITT 4116 16K × 1 dynamic RAM IC recreation.
+
+**Footprint:** [DIP16-6.40x19.25-RS7.62-P2.54](https://github.com/bljakk-alt/PCB-Design/tree/main/DIP16-6.40x19.25-RS7.62-P2.54/footprint)
+
+---
+
+## Motorola SN74532N
+
+[![Motorola SN74532N](./MOT_SN74532N/MOT_SN74532N.png)](./MOT_SN74532N/)
+
+Motorola 14-pin logic IC recreation.
+
+**Footprint:** [DIP14-6.40x19.25-RS7.62-P2.54](https://github.com/bljakk-alt/PCB-Design/tree/main/DIP14-6.40x19.25-RS7.62-P2.54/footprint)
+
+---
+
+## Motorola SN74LS00N
+
+[![Motorola SN74LS00N](./MOT_SN74LS00N/MOT_SN74LS00N.png)](./MOT_SN74LS00N/)
+
+Motorola SN74LS00N 14-pin logic IC recreation.
+
+**Footprint:** [DIP14-6.40x19.25-RS7.62-P2.54](https://github.com/bljakk-alt/PCB-Design/tree/main/DIP14-6.40x19.25-RS7.62-P2.54/footprint)
+
+---
+
+## Motorola SN74LS157N
+
+[![Motorola SN74LS157N](./MOT_SN74LS157N/MOT_SN74LS157N.PNG)](./MOT_SN74LS157N/)
+
+Motorola SN74LS157N 16-pin logic IC recreation.
+
+**Footprint:** [DIP16-6.40x19.25-RS7.62-P2.54](https://github.com/bljakk-alt/PCB-Design/tree/main/DIP16-6.40x19.25-RS7.62-P2.54/footprint)
+
+---
+
+## National Semiconductor LM1889N
+
+[![National Semiconductor LM1889N](./NS_LM1889N/NS_LM1889N.png)](./NS_LM1889N/)
+
+National Semiconductor LM1889N 18-pin TV video modulator IC recreation.
+
+**Footprint:** [DIP18-6.40X22.86-RS7.62-P2.54](https://github.com/bljakk-alt/PCB-Design/tree/main/DIP18-6.40X22.86-RS7.62-P2.54/footprint)
+
+---
+
+## Texas Instruments TMS4532
+
+[![Texas Instruments TMS4532](./TI_TMS4532/TI_TMS4532.png)](./TI_TMS4532/)
+
+Texas Instruments TMS4532 32K × 1 dynamic RAM IC recreation.
+
+**Footprint:** [DIP16-6.40x19.25-RS7.62-P2.54](https://github.com/bljakk-alt/PCB-Design/tree/main/DIP16-6.40x19.25-RS7.62-P2.54/footprint)
 
 ---
 
